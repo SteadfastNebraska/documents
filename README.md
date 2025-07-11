@@ -1,4 +1,4 @@
-# SteadFast
+![](assets/20250711_143634_steadfastlogo.png)
 
 The SteadFast project was created in an attempt to passivly monitor off-school network connection quality to identify student connection issues and simplify federal digital equity reporting requirements. Emphsis is placed on protecting student PII and privacy. The project intentionally avoids using 3rd party services to minimize ongoing expense.
 
